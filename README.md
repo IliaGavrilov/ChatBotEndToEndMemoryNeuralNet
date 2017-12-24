@@ -7,4 +7,4 @@
 - chat bot
 - babi tasks
 - https://arxiv.org/abs/1502.05698
-- 1-supporting-fact problem
+- 1- and 2-supporting-fact problems
