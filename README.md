@@ -8,3 +8,4 @@
 - babi tasks
 - https://arxiv.org/abs/1502.05698
 - 1- and 2-supporting-fact problems
+- parallel coding
