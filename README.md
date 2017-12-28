@@ -1,6 +1,6 @@
 # EndToEndMemoryNetwork
 - Memory Networks
-- AI auestion answering
+- AI question answering
 - one/two supporting-fact structure
 - Pytorch
 - Keras
@@ -9,7 +9,7 @@
 - https://arxiv.org/abs/1502.05698
 - 1- and 2-supporting-fact problems
 - parallel coding
-- Code is based on the course fast.ai
+- Code is based on the course fast.ai (https://github.com/fastai)
 
 (Python 3
 Generative Model
