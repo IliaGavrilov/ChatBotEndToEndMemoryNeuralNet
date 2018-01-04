@@ -1,17 +1,11 @@
-# EndToEndMemoryNetwork
-- Implemented in Python 3.6;
-- Memory Networks
-- AI question answering
-- one/two supporting-fact structure
-- Pytorch
-- Keras
-- chat bot
-- babi tasks/ babi example
-- https://arxiv.org/abs/1502.05698
-- 1- and 2-supporting-fact problems
-- parallel coding
-- Code is based on the course fast.ai MOOC (https://github.com/fastai), 
+# EndToEndMemoryNetwork - Pytorch - Keras - Memory Networks
 
-(Python 3
-Generative Model
-Transfer learning (Neural style transfer))
+- Code is run on CPU;
+- Implemented in Python 3.6;
+- AI question answering/ Chat-bot
+
+- Parallel programming;
+
+- Code is based on the course fast.ai MOOC (https://github.com/fastai), 
+    - Babi example;
+    - One/two supporting-fact structure; 
