@@ -1,4 +1,5 @@
 # EndToEndMemoryNetwork
+- Implemented in Python 3.6;
 - Memory Networks
 - AI question answering
 - one/two supporting-fact structure
