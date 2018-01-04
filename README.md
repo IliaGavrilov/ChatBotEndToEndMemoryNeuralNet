@@ -1,6 +1,6 @@
 # Chat-bot End To End Memory Network 
 - Code is run on CPU;
-- Implemented in Python 3.6;
+- Implemented in Jupyter Notebook (Python 3.6);
 - AI question answering/ Chat-bot;
 - Parallel programming;
 - One/two supporting-fact structure;
