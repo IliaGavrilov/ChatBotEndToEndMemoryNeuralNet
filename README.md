@@ -6,6 +6,4 @@
 - Parallel programming;
 - One/two supporting-fact structure
 - Code is based on the course fast.ai MOOC (https://github.com/fastai):
-
-    
-    
+    - Accuracy: 0.9986.
