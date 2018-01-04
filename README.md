@@ -7,6 +7,6 @@
 
 - Keras Functional API 
 
-- Code is based on the course fast.ai MOOC (https://github.com/fastai):
+- Code is based on the [fast.ai](https://github.com/fastai) MOOC:
     - Babi-memnn example; 
     - Accuracy: 0.9986.
