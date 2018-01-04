@@ -6,7 +6,7 @@
 - Pytorch
 - Keras
 - chat bot
-- babi tasks
+- babi tasks/ babi example
 - https://arxiv.org/abs/1502.05698
 - 1- and 2-supporting-fact problems
 - parallel coding
