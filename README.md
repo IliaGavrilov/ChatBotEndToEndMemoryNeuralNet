@@ -2,7 +2,7 @@
 - Code is run on CPU;
 - Implemented in Jupyter Notebook (Python 3.6);
 - AI question answering/ Chat-bot;
-- Parallel programming;
+- Parallel, asynchronous programming;
 - One/ two supporting-fact structure;
 
 - Keras Functional API 
